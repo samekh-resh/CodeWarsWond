@@ -12,3 +12,5 @@ function getAverage(marks){
     
     return Math.floor(total / marks.length)
   }
+
+  
